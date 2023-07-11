@@ -1,4 +1,4 @@
-                                                             LSB Steganography
+                                                              LSB Steganography
                                                                         
 If I want to send some secret message to my friend via digital system, I don't want any third person to read and overwritr the data that I am sending over internet.
 There comes Steganography technique to encode data in a image and sending that image to the reciever who will be decoding the image to get the information.
